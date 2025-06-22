@@ -1,4 +1,4 @@
 - 💷 SOC2 compliant? What is it? https://crowsays.theme25.com
-- 👋 Hi, I’m Miklos from San Jose, California. I am a small business owner engineer, manager, teacher, editor, and the CEO of my own company.
+- 👋 Hi, I’m Miklos from San Jose, California. I am a small business owner, engineer, manager, teacher, editor, and the CEO of my own company.
 - 👀 I’m interested in Datacenters, Operations, Infrastructure, Language Models, Development, SQL, Robotics, Marketing, Supply Chains, Resource Planning, Robotics, Python, Java, Embedded, Finance, Digital currencies, Graphics, Codecs, Energy
 - 📈 I use open source as a powerful marketing tool.
